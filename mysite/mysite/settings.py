@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ["django-official.run-us-west1.goorm.io"]
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
