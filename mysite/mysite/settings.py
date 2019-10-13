@@ -25,7 +25,7 @@ SECRET_KEY = 'q!!_ifih-29*1%tzbn-hlui$1)&ka+nu#+ubs%jzye*s*1+hq5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["django-official.run-us-west1.goorm.io"]
+ALLOWED_HOSTS = ["django-official.run-us-west1.goorm.io", "testserver"]
 
 
 # Application definition
